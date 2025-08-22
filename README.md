@@ -22,7 +22,7 @@ Outside the terminal, I chase challenges, experiment, and never settle for the o
 ### 📊 GitHub Overview
 <div align="center">
   
-![Streak](https://streak-stats.demolab.com?user=dppereira&theme=tokyonight&hide_border=true&exclude_days=Sun,Sat)
+![Streak](https://streak-stats.demolab.com?user=dppereira&theme=tokyonight&hide_border=true&short_numbers=true&starting_year=2024&exclude_days=Sun,Sat)
 
 </div>
 
